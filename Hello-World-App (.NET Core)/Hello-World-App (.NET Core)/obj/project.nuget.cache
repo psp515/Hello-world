@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R461PIWAZBYmPOZAD3w7mNu5ayT/YeI/Uttipl0kXd1nQgpkqOCw6JV1mu77yh5lVT0FEiCfsgWNh7T2dB07ow==",
+  "success": true,
+  "projectFilePath": "E:\\Git\\Hello-world\\Hello-World-App (.NET Core)\\Hello-World-App (.NET Core)\\Hello-World-App (.NET Core).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\psp515\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
