@@ -6,6 +6,7 @@ namespace Hello_World_App
         static void Main(string[] args)
         {
             WriteHello();
+            Console.ReadLine();
         }
 
         private static void WriteHello() => Console.WriteLine("Hello World!");
