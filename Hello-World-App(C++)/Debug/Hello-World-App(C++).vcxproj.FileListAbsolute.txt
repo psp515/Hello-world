@@ -1,0 +1,2 @@
+E:\Git\Hello-world\Hello-World-App(C++)\Debug\Hello-World-App(C++).exe
+E:\Git\Hello-world\Hello-World-App(C++)\Debug\Hello-World-App(C++).pdb

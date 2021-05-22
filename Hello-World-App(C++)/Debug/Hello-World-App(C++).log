@@ -1,0 +1,3 @@
+﻿  Program.cpp
+E:\Git\Hello-world\Hello-World-App(C++)\Program.h(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Hello-World-App(C++).vcxproj -> E:\Git\Hello-world\Hello-World-App(C++)\Debug\Hello-World-App(C++).exe
