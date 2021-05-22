@@ -1,3 +1,9 @@
-# Hello-world
+# Hello-World!
+Simple Hello World!
 
-- Proste Hello World w C#
+## Status
+- Project Ended
+
+### Used Environments
+- C#
+- .NET Core
