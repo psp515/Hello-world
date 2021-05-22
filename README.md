@@ -1,2 +1,3 @@
 # Hello-world
-Opis
+
+- Proste Hello World w C#
