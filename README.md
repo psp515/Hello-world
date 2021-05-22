@@ -1,9 +1,6 @@
 # Hello-World!
 Simple Hello World!
 
-## Status
-- Project Ended
-
-### Used Environments
+## Used Languages
 - C#
-- .NET Core
+- C++
